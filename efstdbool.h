@@ -5,6 +5,8 @@
 
 #ifndef __STDC_VERSION__
 #define _Bool unsigned char
+#elif __STDC_VERSION__ > 201710L
+#define _Bool bool
 #endif
 
 /*********************************/
