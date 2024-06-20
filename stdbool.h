@@ -1,7 +1,7 @@
 /* Copyright 2024 Efgeen */
 
-#ifndef _EFSTDBOOL_H
-#define _EFSTDBOOL_H
+#ifndef _STDBOOL_H
+#define _STDBOOL_H
 
 #ifndef __STDC_VERSION__
 #define _Bool unsigned char
