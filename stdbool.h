@@ -1,5 +1,3 @@
-/* Copyright 2024 Efgeen */
-
 #ifndef _STDBOOL_H
 #define _STDBOOL_H
 
