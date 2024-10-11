@@ -1,5 +1,5 @@
-#ifndef _EFSTDBOOL_H
-#define _EFSTDBOOL_H
+#ifndef _EFNLIBC_EFSTDBOOL_H
+#define _EFNLIBC_EFSTDBOOL_H
 
 #ifndef __STDC_VERSION__
 #define bool unsigned char
